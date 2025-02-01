@@ -1,0 +1,22 @@
+{
+  "description": "Mine the required diamonds.",
+  "id": "twh:quests/mine_diamonds",
+  "isTimedQuest": false,
+  "maxQuestCompletionTime": 0,
+  "name": "Mine Diamonds Quest",
+  "requirements": {
+    "type": "ITEM_COLLECTION",
+    "conditions": {},
+    "requiredProgress": 0
+  },
+  "rewards": {
+    "experienceReward": 500,
+    "itemRewards": [
+      {
+        "count": 5,
+        "id": "minecraft:diamond"
+      }
+    ]
+  },
+  "status": -1
+}

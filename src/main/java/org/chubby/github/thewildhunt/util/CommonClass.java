@@ -10,4 +10,8 @@ public class CommonClass
     {
         return ResourceLocation.fromNamespaceAndPath(Constants.MODID, pPath);
     }
+    public static ResourceLocation questLoc (String pPath)
+    {
+        return ResourceLocation.fromNamespaceAndPath(Constants.MODID, "quests/" + pPath);
+    }
 }

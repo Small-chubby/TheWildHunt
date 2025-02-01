@@ -1,4 +1,4 @@
-package org.chubby.github.thewildhunt.common.content.quest;
+package org.chubby.github.thewildhunt.common.data.quest;
 
 import net.minecraft.world.entity.player.Player;
 
